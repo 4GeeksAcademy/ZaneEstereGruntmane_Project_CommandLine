@@ -1,0 +1,245 @@
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine (master) $ cd thecmdchallenge
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ nano 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ pwd
+/workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ ls 
+ boringfolder   console_master.md   funcode   kamehameha   small-name  'What we do in each class?'
+ @esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ ls -a
+ .   ..   boringfolder   console_master.md   funcode   kamehameha   small-name  'What we do in each class?'
+ @esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ find 
+.
+./boringfolder
+./boringfolder/even-more-boring
+./boringfolder/even-more-boring/i-cant-believe-how-boring
+./boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception
+./boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/myfirstcopy.txt
+./boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt
+./boringfolder/html5.png
+./boringfolder/js.png
+./boringfolder/babel.png
+./boringfolder/scale.fix.js
+./boringfolder/jquery.png
+./boringfolder/webpack.png
+./boringfolder/c9.png
+./boringfolder/css3.png
+./boringfolder/breathecode.shadow.png
+./boringfolder/hello.txt
+./boringfolder/dropzone.js
+./boringfolder/sass.png
+./What we do in each class?
+./funcode
+./funcode/images
+./funcode/images/hello
+./funcode/images/hello/invalid.png
+./funcode/regexer.css
+./funcode/baby.jpg
+./funcode/forms.html
+./funcode/script.js
+./funcode/baby.success.1.jpg
+./funcode/rigoberto.1.jpg
+./funcode/einstein.png
+./funcode/keyboard.html
+./funcode/borat.success.jpg
+./funcode/borat.success.1.jpg
+./funcode/scared-baby.1.jpg
+./funcode/view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+./funcode/mouse.html
+./funcode/valid.png
+./funcode/kids.jpg
+./funcode/keyboard.1.html
+./funcode/mouse.1.html
+./funcode/invalid.png
+./funcode/scared-baby.jpg
+./funcode/frame.1.html
+./funcode/regexer.1.css
+./funcode/frame.html
+./funcode/regexer.js
+./funcode/forms.1.html
+./funcode/kids.1.jpg
+./funcode/baby.success.jpg
+./funcode/rigoberto.jpg
+./funcode/einstein.1.png
+./funcode/regexer.1.js
+./funcode/the-most-funny
+./funcode/the-most-funny/lol
+./funcode/the-most-funny/lol/the-ultimate-joke.txt
+./console_master.md
+./small-name
+./small-name/bigger-name-than-before
+./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type
+./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious
+./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+./kamehameha
+./kamehameha/dragon-ball-jokes.md
+./kamehameha/dragon-ball-jokes.md
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ clear
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ cd ./small-name
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name (master) $ ls
+bigger-name-than-before
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name (master) $ cd bigger-name-than-before
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name/bigger-name-than-before (master) $ ls -a 
+.  ..  omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name/bigger-name-than-before (master) $ cat omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt 
+MMMMMMMMMMMNhoooooooooosyymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdysooo++oo+ooymMMMMMMMM
+MMMMMMMMMMNsohMMMMMMMNNmho/hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNsohdmNMMMMMMMdo+dMMMMMMM
+MMMMMMMMMMh+yMMMMMMMMMMMMs++NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+oMMMMMMMMMMMMho/MMMMMMM
+MMMMMMMMMMs+hMMMMMMMMMMMMy+/NMMMMMNNNmmddddddddddhhhhhhhhdddmmmmNNNMMMMMMMMd+oMMMMMMMMMMMMmo/dMMMMMM
+MMMMMMMMMMy+hMMMMMMMMMMMMh+/dNhysssoooooooooooo++++++++++ooooossssssyyhhdNMy+yMMMMMMMMMMMMdo/dMMMMMM
+MMMMMMMMMMh+sMMMMMMMMMMMMNho++oossoooooooo+++++/////////++++++ooooooosssooo+yNMMMMMMMMMMMMy+/NMMMMMM
+MMMMMMMMMMNo+mMMMMMMMMMMMMMMNmossssooooo++++++///////////+++++ooooooosysodmNMMMMMMMMMMMMMNs+oMMMMMMM
+MMMMMMMMMMMy+oMMMMMMMMMMMMMMMmoossoooooo++++++///////////+++++ooooooosssomMMMMMMMMMMMMMMMh+/mMMMMMMM
+MMMMMMMMMMMNo/hMMMMMMMMMMMMMMmoossoooooo+++++////////////+++++++++++osso+mMMMMMMMMMMMMMMmo/yMMMMMMMM
+MMMMMMMMMMMMd++dMMMMMMMMMMMMMNoossoo+++++++++////////////+++++++++++osso+mMMMMMMMMMMMMMNs/+NMMMMMMMM
+MMMMMMMMMMMMMh++mMMMMMMMMMMMMmoooso++++++++++////////////+++++++++++osso+NMMMMMMMMMMMMNy++mMMMMMMMMM
+MMMMMMMMMMMMMMy/+mMMMMMMMMMMMNo+ooo+++++++++++///////////+++++++++++oso++NMMMMMMMMMMMMy//mMMMMMMMMMM
+MMMMMMMMMMMMMMMy//dMMMMMMMMMMNo++o++++++++++++///////////+++++++++/+ooo+oNMMMMMMMMMMMy//mMMMMMMMMMMM
+MMMMMMMMMMMMMMMMh+/hMMMMMMMMMMs+++++++//+++++++/////////+++++++////+oo+/sMMMMMMMMMMNs/+mMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMh+/yMMMMMMMMMy/+++//////+++++++///////+++++++/////+oo+/yMMMMMMMMMNo/oNMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMmo/+mMMMMMMMm//++///////++++++++///+++++++++/////+o+//mMMMMMMMMd+/yMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNy//yNMMMMMMo///////////++++++++++++++++++//////+o//oMMMMMMMNs/+mMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMdo/+dMMMMMd///////////////////////////////::/+++//dMMMMMNh//yNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMNh+:omMMMMs/////:::::::::::::::::::::::::::/++/:sMMMMNh//sNMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMmy//omMMN+////::::::::::::::::::::::::::/++/:+NMMNh//smMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMmy//odMm/////:::::::::::::::::::::::::/+/:/mMms//smMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+/+yh/////:::::::::::::::::::::::/+/::yh+/+hmMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNds+//::///::::::::::---------::/+/::/++ydNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdyo/::/:::---------------:://::/oydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/:::::-------------::/::/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+:---------------:::+hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdso/:-------::/ohmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:::---/dmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/:::::sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+//:::dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs+//::NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd++/:+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdo+/:+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNyoo+/:/odMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo+/:/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+/:oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+//sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoo+/+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhooo+/+oddmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhssyssoo++oosysydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhysoooooooooooooooooooshmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNhsoooooooooooooooooooooooooosymNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNmdhssooooooooooooooooossyyhdmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNmmdddhhhhhhhhhdddmmNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddddyyyyyysssssssssssssssssyddddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddhy+++////:::::-----------/ohddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMNdddddddddho+++////:::::-----------::hddddddddddmNMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmddddddddddoo+++++////////////////oddddddddddddmNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMddddddddddddddddddddddddddddddddddddddddddddddddddddddMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNNNNNNNNmddddddddddddddddddddddddddddddddddddddddddddddddddddmNNNNNNNNMMMMMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMM
+
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name/bigger-name-than-before (master) $ cd ..
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/small-name (master) $ cd ..
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ ls funcode
+baby.jpg             forms.html       kids.jpg         rigoberto.jpg
+baby.success.1.jpg   frame.1.html     mouse.1.html     scared-baby.1.jpg
+baby.success.jpg     frame.html       mouse.html       scared-baby.jpg
+borat.success.1.jpg  images           regexer.1.css    script.js
+borat.success.jpg    invalid.png      regexer.1.js     the-most-funny
+einstein.1.png       keyboard.1.html  regexer.css      valid.png
+einstein.png         keyboard.html    regexer.js       view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+forms.1.html         kids.1.jpg       rigoberto.1.jpg
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ ls funcode/*.js
+funcode/regexer.1.js  funcode/regexer.js  funcode/script.js
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ cd funcode 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ cd the-most-funny
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode/the-most-funny (master) $ 
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode/the-most-funny (master) $ mkdir not-that-funny
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode/the-most-funny (master) $ ls 
+lol  not-that-funny
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/boringfolder (master) $ cd even-more-boring
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/boringfolder/even-more-boring (master) $ cd i-cant-believe-how-boring/the-ultimate-boring-inception/
+@esterzane ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ cp the-mostboring-text.txt lol.txt
+@esterzane ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ cd .. 
+@esterzane ➜ .../thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring (master) $ cd ..
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/boringfolder/even-more-boring (master) $ cd ..
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/boringfolder (master) $ cd ..
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ cd funcode
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ mv kids.jpg images/hello/
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ rm -r small-nameca
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ cd funcode 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ cd the-most-funny
+@esterzane ➜ .../ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode/the-most-funny (master) $ cd lol
+@esterzane ➜ .../thecmdchallenge/funcode/the-most-funny/lol (master) $ cat the-ultimate-joke.txt
+What do you call a programmer from Finland? ..... NERDIC!
+
+Got it?? :)
+@esterzane ➜ .../thecmdchallenge/funcode/the-most-funny/lol (master) $ cd ../../
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ cd ..
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/funcode (master) $ cd ..
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ cd boringfolder
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/boringfolder (master) $ 
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/boringfolder (master) $ rm -r *
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ find kamehameha/dragon-ball-jokes.md
+kamehameha/dragon-ball-jokes.md
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge (master) $ cd kamehameha
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/kamehameha (master) $ vi dragon-ball-jokes.md 
+Where do you put Vegeta after you kill him? In the Frieza.
+
+What did Beerus say to Goku? Why don't you tell your son to "Gohan" home.
+
+How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+
+I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan"
+
+What do Saiyans wear to the beach? Trunks.
+
+What did Vegeta say when he got his tuition bill? "It's over 9000"
+
+Where does Vegeta get the energy to fly? Red Bullma, it gives you wings.
+
+What is Goku's favorite instrument of destruction? A Piccolo (flute).
+
+How do you get in touch with an android? By using a CELL Phone.
+
+Did you know Frieza wasn't very popular in school? His brother was COOLER.
+
+Me: How do you make Dragon Ball Z less gay? Shenron: "Your wish is far beyond my power."
+"dragon-ball-jokes.md" [Incomplete last line] 29 lines, 1060 bytes
+
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                                                                                                                                        
+~                              
+: wp                                                                                                           
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/kamehameha (master) $ vi dragon-ball-jokes.md
+@esterzane ➜ /workspaces/ZaneEstereGruntmane_Project_CommandLine/thecmdchallenge/kamehameha (master) $ 
